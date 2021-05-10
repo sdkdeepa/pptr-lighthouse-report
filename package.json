@@ -1,0 +1,35 @@
+{
+  "name": "pptr-lighthouse-report",
+  "version": "1.0.0",
+  "description": "generating reports using puppeteer and lighthouse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdkdeepa/pptr-lighthouse-report.git"
+  },
+  "keywords": [
+    "lighthouse",
+    "puppeteer",
+    "levelup",
+    "leveldown"
+  ],
+  "author": "Deepa Subrmanaian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdkdeepa/pptr-lighthouse-report/issues"
+  },
+  "homepage": "https://github.com/sdkdeepa/pptr-lighthouse-report#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "leveldown": "^6.0.0",
+    "levelup": "^5.0.0",
+    "lighthouse": "^7.4.0",
+    "puppeteer": "^9.1.1"
+  },
+  "devDependencies": {
+    "esm": "^3.2.25"
+  }
+}
