@@ -24,6 +24,7 @@
   "homepage": "https://github.com/sdkdeepa/pptr-lighthouse-report#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "level-jobs": "^2.1.0",
     "leveldown": "^6.0.0",
     "levelup": "^5.0.0",
     "lighthouse": "^7.4.0",
